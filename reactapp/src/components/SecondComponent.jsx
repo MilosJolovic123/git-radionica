@@ -9,7 +9,7 @@ const SecondComponent = () => {
     Voluptatem et culpa molestias exercitationem rerum inventore deserunt quidem minus repellat consectetur
      aliquam illum dolores, reiciendis dolor temporibus laborum perspiciatis! Modi, veniam?</p>
 <button>Ovo je prvo dugme</button>
-
+<button>Ovo je drugo dugme</button>
     </div>
   )
 }
