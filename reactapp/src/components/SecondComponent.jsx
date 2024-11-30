@@ -8,7 +8,7 @@ const SecondComponent = () => {
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
     Voluptatem et culpa molestias exercitationem rerum inventore deserunt quidem minus repellat consectetur
      aliquam illum dolores, reiciendis dolor temporibus laborum perspiciatis! Modi, veniam?</p>
-
+<button>Ovo je prvo dugme</button>
 
     </div>
   )
