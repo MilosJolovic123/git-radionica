@@ -4,7 +4,10 @@ const LoginComponent = () => {
   return (
     <div><form action="">
         <input type="text" name="" id="" />
-        </form></div>
+        </form>
+        <h1>{console.log("Ovo je nova funkcionalnost na kojoj radim!")}</h1>
+      
+        </div>
   )
 }
 
